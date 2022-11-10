@@ -1,4 +1,5 @@
-import secrets, string
+import secrets
+import string
 
 print("-"*5 + "GERADOR DE SENHA" + "-"*5)
 letra = string.ascii_letters
